@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="name" value="Kiran"></parameter>
+<parameter name="gender" value="male"></parameter>
+<parameter name="email" value="kirang@teaching.com"></parameter>
+<parameter name="status" value="active"></parameter>
+  <test thread-count="5" name="Test">
+  <classes>
+  	<class name="com.project1.restapi.TC35_CREATE_USER_POST_API_TESTNG_XML_APPROACH4"></class>
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-21T20:45:34 IST" name="Suite" finished-at="2025-03-21T20:45:37 IST" duration-ms="3263">
+    <groups>
+    </groups>
+    <test started-at="2025-03-21T20:45:34 IST" name="Test" finished-at="2025-03-21T20:45:37 IST" duration-ms="3263">
+      <class name="com.project1.restapi.TC48_SOAP_APIs">
+        <test-method signature="addSOAPapi()[pri:1, instance:com.project1.restapi.TC48_SOAP_APIs@36328d33]" started-at="2025-03-21T20:45:34 IST" name="addSOAPapi" finished-at="2025-03-21T20:45:36 IST" duration-ms="1523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addSOAPapi -->
+        <test-method signature="subtractSOAPapi()[pri:2, instance:com.project1.restapi.TC48_SOAP_APIs@36328d33]" started-at="2025-03-21T20:45:36 IST" name="subtractSOAPapi" finished-at="2025-03-21T20:45:36 IST" duration-ms="540" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subtractSOAPapi -->
+        <test-method signature="multiplySOAPapi()[pri:3, instance:com.project1.restapi.TC48_SOAP_APIs@36328d33]" started-at="2025-03-21T20:45:36 IST" name="multiplySOAPapi" finished-at="2025-03-21T20:45:37 IST" duration-ms="523" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplySOAPapi -->
+        <test-method signature="divideSOAPapi()[pri:4, instance:com.project1.restapi.TC48_SOAP_APIs@36328d33]" started-at="2025-03-21T20:45:37 IST" name="divideSOAPapi" finished-at="2025-03-21T20:45:37 IST" duration-ms="562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divideSOAPapi -->
+      </class> <!-- com.project1.restapi.TC48_SOAP_APIs -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
