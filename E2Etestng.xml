@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.project1.restapi.TC45_KIRAN_ALLURE_HTML_TEST_REPORTS_E2E_API_AUTOMATION"/>
+      <class name="com.project1.restapi.TC47_ALLURE_HTML_TEST_REPORTS_E2E_API_AUTOMATION"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
